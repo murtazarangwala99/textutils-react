@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0af9e2f4.css","mappings":"AAAA,KACE,wBACF,CAEA,OACE,eACF","sources":["index.css"],"sourcesContent":["body {\n  background-color: blanchedalmond;\n}\n\nbutton {\n  margin-top: 12px;\n}\n"],"names":[],"sourceRoot":""}
